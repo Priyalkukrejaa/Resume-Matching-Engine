@@ -1,0 +1,4 @@
+JD,Company,Role,Required Skills,Preferred Skills
+JD-1,Kakao (Seoul),ML Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Data Visualization","NLP, BERT, Feature Engineering, Statistics"
+JD-2,Naver (Seongnam),Backend Engineer,"Java, Spring Boot, MySQL, PostgreSQL, Microservices, Docker, Kubernetes","REST API, CI/CD, Redis"
+JD-3,Line (Seoul),Frontend Engineer,"JavaScript, React, Vue, TypeScript, REST API, HTML/CSS","Node.js, GraphQL, Redux, Jest, AWS"
